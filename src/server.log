@@ -1,0 +1,522 @@
+INFO: 16/01/22 19:44:00         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 19:44:00         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:44:03         pid:10 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:44:03         pid:10 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:44:03         pid:10 module:_internal 172.28.0.1 - - [16/Jan/2022 19:44:03] "[1m[35mPOST /application/login HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:47:27         pid:10 module:_internal  * Detected change in '/opt/project/src/config.py', reloading
+INFO: 16/01/22 19:47:27         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:47:29         pid:19 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:47:29         pid:19 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:47:39         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 19:47:39         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:47:42         pid:10 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:47:42         pid:10 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:49:40         pid:10 module:_internal 172.28.0.1 - - [16/Jan/2022 19:49:40] "[1m[35mPOST /application/login HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:49:40         pid:10 module:_internal  * Detected change in '/opt/project/src/config.py', reloading
+INFO: 16/01/22 19:49:41         pid:1 module:_internal  * Restarting with stat
+INFO: 16/01/22 19:49:49         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 19:49:49         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:49:51         pid:11 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:49:51         pid:11 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:50:02         pid:11 module:_internal 172.28.0.1 - - [16/Jan/2022 19:50:02] "[1m[35mPOST /application/login HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:50:13         pid:11 module:_internal 172.28.0.1 - - [16/Jan/2022 19:50:13] "[1m[35mPOST /application/login HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:51:49         pid:11 module:_internal 172.28.0.1 - - [16/Jan/2022 19:51:49] "[1m[35mPOST /application/login HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:51:51         pid:11 module:_internal  * Detected change in '/opt/project/src/routes/auth.py', reloading
+INFO: 16/01/22 19:51:51         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:51:54         pid:22 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:51:54         pid:22 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:51:58         pid:22 module:_internal 172.28.0.1 - - [16/Jan/2022 19:51:58] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 19:52:20         pid:22 module:_internal 172.28.0.1 - - [16/Jan/2022 19:52:20] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 19:52:26         pid:22 module:_internal 172.28.0.1 - - [16/Jan/2022 19:52:26] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 19:52:51         pid:22 module:_internal 172.28.0.1 - - [16/Jan/2022 19:52:51] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 19:54:36         pid:22 module:_internal 172.28.0.1 - - [16/Jan/2022 19:54:36] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 19:54:38         pid:22 module:_internal  * Detected change in '/opt/project/src/util/permission.py', reloading
+INFO: 16/01/22 19:54:38         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:54:41         pid:38 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:54:41         pid:38 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:54:55         pid:38 module:_internal 172.28.0.1 - - [16/Jan/2022 19:54:55] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 19:55:28         pid:38 module:_internal  * Detected change in '/opt/project/src/util/permission.py', reloading
+INFO: 16/01/22 19:55:28         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:55:32         pid:45 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:55:32         pid:45 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:56:08         pid:45 module:_internal 172.28.0.1 - - [16/Jan/2022 19:56:08] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 19:56:11         pid:45 module:_internal  * Detected change in '/opt/project/src/util/permission.py', reloading
+INFO: 16/01/22 19:56:11         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:56:14         pid:52 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:56:14         pid:52 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:56:26         pid:52 module:_internal 172.28.0.1 - - [16/Jan/2022 19:56:26] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 19:56:46         pid:52 module:_internal  * Detected change in '/opt/project/src/routes/movies.py', reloading
+INFO: 16/01/22 19:56:46         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 19:56:49         pid:59 module:_internal  * Debugger is active!
+INFO: 16/01/22 19:56:49         pid:59 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 19:57:02         pid:59 module:_internal 172.28.0.1 - - [16/Jan/2022 19:57:02] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 19:57:17         pid:59 module:_internal 172.28.0.1 - - [16/Jan/2022 19:57:17] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 19:57:33         pid:59 module:_internal 172.28.0.1 - - [16/Jan/2022 19:57:33] "[33mPOST /application/add_movie HTTP/1.1[0m" 404 -
+INFO: 16/01/22 20:23:26         pid:59 module:_internal  * Detected change in '/opt/project/src/models/abc.py', reloading
+INFO: 16/01/22 20:23:26         pid:1 module:_internal  * Restarting with stat
+INFO: 16/01/22 20:30:15         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 20:30:15         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:30:17         pid:10 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:30:17         pid:10 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:30:20         pid:10 module:_internal 172.28.0.1 - - [16/Jan/2022 20:30:20] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 20:30:25         pid:10 module:_internal 172.28.0.1 - - [16/Jan/2022 20:30:25] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 20:30:48         pid:10 module:_internal 172.28.0.1 - - [16/Jan/2022 20:30:48] "[37mPOST /application/add_movie HTTP/1.1[0m" 201 -
+INFO: 16/01/22 20:33:16         pid:10 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 20:33:16         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:33:18         pid:21 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:33:18         pid:21 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:36:28         pid:21 module:_internal  * Detected change in '/opt/project/src/models/__init__.py', reloading
+INFO: 16/01/22 20:36:28         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:36:31         pid:26 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:36:31         pid:26 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:38:26         pid:26 module:_internal  * Detected change in '/opt/project/src/models/__init__.py', reloading
+INFO: 16/01/22 20:38:26         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:38:29         pid:31 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:38:29         pid:31 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:41:55         pid:31 module:_internal  * Detected change in '/opt/project/src/config.py', reloading
+INFO: 16/01/22 20:41:56         pid:1 module:_internal  * Restarting with stat
+INFO: 16/01/22 20:42:29         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 20:42:29         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:42:32         pid:10 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:42:32         pid:10 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:43:05         pid:10 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 20:43:05         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:43:08         pid:15 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:43:08         pid:15 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:44:11         pid:15 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 20:44:11         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:44:14         pid:20 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:44:14         pid:20 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:45:08         pid:20 module:_internal 172.28.0.1 - - [16/Jan/2022 20:45:08] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 20:55:12         pid:20 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 20:55:12         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:55:16         pid:27 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:55:16         pid:27 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:55:34         pid:27 module:_internal 172.28.0.1 - - [16/Jan/2022 20:55:34] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 20:55:59         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 20:55:59         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:56:03         pid:9 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:56:03         pid:9 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:56:42         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 20:56:42         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:56:46         pid:11 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:56:46         pid:11 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 20:58:45         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 16/01/22 20:58:46         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 20:58:49         pid:11 module:_internal  * Debugger is active!
+INFO: 16/01/22 20:58:49         pid:11 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 21:02:36         pid:11 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 21:02:36         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 21:02:40         pid:16 module:_internal  * Debugger is active!
+INFO: 16/01/22 21:02:40         pid:16 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 21:02:40         pid:16 module:_internal 172.28.0.1 - - [16/Jan/2022 21:02:40] "[1m[31mPOST /application/add_movie HTTP/1.1[0m" 401 -
+INFO: 16/01/22 21:02:47         pid:16 module:_internal 172.28.0.1 - - [16/Jan/2022 21:02:47] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 16/01/22 21:03:01         pid:16 module:_internal 172.28.0.1 - - [16/Jan/2022 21:03:01] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 21:04:22         pid:16 module:_internal 172.28.0.1 - - [16/Jan/2022 21:04:22] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 21:04:24         pid:16 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 21:04:24         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 21:04:28         pid:29 module:_internal  * Debugger is active!
+INFO: 16/01/22 21:04:28         pid:29 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 16/01/22 21:04:33         pid:29 module:connectionpool Starting new HTTP connection (1): elasticsearch:9200
+WARNING: 16/01/22 21:04:34         pid:29 module:base GET http://elasticsearch:9200/ [status:N/A request:0.048s]
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/local/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/elasticsearch/connection/http_urllib3.py", line 255, in perform_request
+    response = self.pool.urlopen(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/retry.py", line 386, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/local/lib/python3.9/http/client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1040, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.9/http/client.py", line 980, in send
+    self.connect()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f8056146a30>: Failed to establish a new connection: [Errno -2] Name or service not known
+DEBUG: 16/01/22 21:04:34         pid:29 module:base > None
+INFO: 16/01/22 21:05:26         pid:29 module:_internal 172.28.0.1 - - [16/Jan/2022 21:05:26] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+DEBUG: 16/01/22 21:05:44         pid:29 module:connectionpool Starting new HTTP connection (2): elasticsearch:9200
+WARNING: 16/01/22 21:05:44         pid:29 module:base GET http://elasticsearch:9200/ [status:N/A request:0.016s]
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/local/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/elasticsearch/connection/http_urllib3.py", line 255, in perform_request
+    response = self.pool.urlopen(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/retry.py", line 386, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/local/lib/python3.9/http/client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1040, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.9/http/client.py", line 980, in send
+    self.connect()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f8055fe2940>: Failed to establish a new connection: [Errno -2] Name or service not known
+DEBUG: 16/01/22 21:05:44         pid:29 module:base > None
+INFO: 16/01/22 21:08:46         pid:29 module:_internal 172.28.0.1 - - [16/Jan/2022 21:08:46] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 16/01/22 21:08:47         pid:29 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 16/01/22 21:08:48         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 21:08:51         pid:40 module:_internal  * Debugger is active!
+INFO: 16/01/22 21:08:51         pid:40 module:_internal  * Debugger PIN: 168-972-087
+INFO: 16/01/22 21:12:10         pid:40 module:_internal  * Detected change in '/opt/project/src/config.py', reloading
+INFO: 16/01/22 21:12:10         pid:1 module:_internal  * Restarting with stat
+WARNING: 16/01/22 21:12:14         pid:45 module:_internal  * Debugger is active!
+INFO: 16/01/22 21:12:14         pid:45 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 16/01/22 21:12:19         pid:45 module:connectionpool Starting new HTTP connection (1): es-container:9200
+WARNING: 16/01/22 21:12:19         pid:45 module:base GET http://es-container:9200/ [status:N/A request:0.159s]
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/local/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/vendor/lib/python3.9/site-packages/elasticsearch/connection/http_urllib3.py", line 255, in perform_request
+    response = self.pool.urlopen(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/util/retry.py", line 386, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/local/lib/python3.9/http/client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.9/http/client.py", line 1040, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.9/http/client.py", line 980, in send
+    self.connect()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/mnt/vendor/lib/python3.9/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9b445bd520>: Failed to establish a new connection: [Errno -2] Name or service not known
+DEBUG: 16/01/22 21:12:19         pid:45 module:base > None
+INFO: 16/01/22 21:17:34         pid:45 module:_internal 172.28.0.1 - - [16/Jan/2022 21:17:34] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+INFO: 17/01/22 03:29:25         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 17/01/22 03:29:25         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:29:28         pid:12 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:29:28         pid:12 module:_internal  * Debugger PIN: 168-972-087
+INFO: 17/01/22 03:29:31         pid:12 module:_internal 172.28.0.1 - - [17/Jan/2022 03:29:31] "[37mPOST /application/login HTTP/1.1[0m" 200 -
+INFO: 17/01/22 03:30:40         pid:12 module:_internal 172.28.0.1 - - [17/Jan/2022 03:30:40] "[1m[35mGET /application/search_movie?name=%22wizard%22 HTTP/1.1[0m" 500 -
+INFO: 17/01/22 03:33:54         pid:12 module:_internal 172.28.0.1 - - [17/Jan/2022 03:33:54] "[1m[35mGET /application/search_movie?name=%22wizard%22 HTTP/1.1[0m" 500 -
+INFO: 17/01/22 03:33:57         pid:12 module:_internal  * Detected change in '/opt/project/src/routes/movies.py', reloading
+INFO: 17/01/22 03:33:57         pid:1 module:_internal  * Restarting with stat
+INFO: 17/01/22 03:34:52         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 17/01/22 03:34:52         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:34:55         pid:11 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:34:55         pid:11 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 03:35:15         pid:11 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 03:35:15         pid:11 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 03:35:15         pid:11 module:base GET http://host.docker.internal:9200/ [status:200 request:0.051s]
+DEBUG: 17/01/22 03:35:15         pid:11 module:base > None
+DEBUG: 17/01/22 03:35:15         pid:11 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 03:35:15         pid:11 module:connectionpool http://host.docker.internal:9200 "POST /movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27%22wizard%22%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search HTTP/1.1" 400 543
+WARNING: 17/01/22 03:35:15         pid:11 module:base POST http://host.docker.internal:9200/movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27%22wizard%22%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search [status:400 request:0.034s]
+DEBUG: 17/01/22 03:35:15         pid:11 module:base > movies
+DEBUG: 17/01/22 03:35:15         pid:11 module:base < {"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"}],"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"},"status":400}
+INFO: 17/01/22 03:35:15         pid:11 module:_internal 172.28.0.1 - - [17/Jan/2022 03:35:15] "[1m[35mGET /application/search_movie?name=%22wizard%22 HTTP/1.1[0m" 500 -
+DEBUG: 17/01/22 03:37:22         pid:11 module:connectionpool http://host.docker.internal:9200 "POST /movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27wizard%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search HTTP/1.1" 400 543
+WARNING: 17/01/22 03:37:22         pid:11 module:base POST http://host.docker.internal:9200/movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27wizard%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search [status:400 request:0.016s]
+DEBUG: 17/01/22 03:37:22         pid:11 module:base > movies
+DEBUG: 17/01/22 03:37:22         pid:11 module:base < {"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"}],"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"},"status":400}
+DEBUG: 17/01/22 03:37:54         pid:11 module:connectionpool http://host.docker.internal:9200 "POST /movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27wizard%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search HTTP/1.1" 400 543
+WARNING: 17/01/22 03:37:54         pid:11 module:base POST http://host.docker.internal:9200/movies/%7B%27size%27%3A%2010,%20%27sort%27%3A%20%5B%7B%27popularity%27%3A%20%7B%27order%27%3A%20%27desc%27%7D%7D%5D,%20%27query%27%3A%20%7B%27multi_match%27%3A%20%7B%27fields%27%3A%20%5B%27name%27,%20%27director%27%5D,%20%27query%27%3A%20%27wizard%27,%20%27fuzziness%27%3A%20%27AUTO%27%7D%7D%7D/_search [status:400 request:0.018s]
+DEBUG: 17/01/22 03:37:54         pid:11 module:base > movies
+DEBUG: 17/01/22 03:37:54         pid:11 module:base < {"error":{"root_cause":[{"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"}],"type":"json_parse_exception","reason":"Unrecognized token 'movies': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (org.elasticsearch.common.io.stream.InputStreamStreamInput); line: 1, column: 7]"},"status":400}
+INFO: 17/01/22 03:37:54         pid:11 module:_internal 172.28.0.1 - - [17/Jan/2022 03:37:54] "[1m[35mGET /application/search_movie?name=wizard HTTP/1.1[0m" 500 -
+INFO: 17/01/22 03:37:58         pid:11 module:_internal  * Detected change in '/opt/project/src/util/elastic_utils.py', reloading
+INFO: 17/01/22 03:37:58         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:38:01         pid:21 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:38:01         pid:21 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 03:38:04         pid:21 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 03:38:04         pid:21 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 03:38:04         pid:21 module:base GET http://host.docker.internal:9200/ [status:200 request:0.059s]
+DEBUG: 17/01/22 03:38:04         pid:21 module:base > None
+DEBUG: 17/01/22 03:38:04         pid:21 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 03:38:04         pid:21 module:connectionpool http://host.docker.internal:9200 "POST /movies/_search HTTP/1.1" 200 346
+INFO: 17/01/22 03:38:04         pid:21 module:base POST http://host.docker.internal:9200/movies/_search [status:200 request:0.359s]
+DEBUG: 17/01/22 03:38:04         pid:21 module:base > {"size":10,"sort":[{"popularity":{"order":"desc"}}],"query":{"multi_match":{"fields":["name","director"],"query":"wizard","fuzziness":"AUTO"}}}
+DEBUG: 17/01/22 03:38:04         pid:21 module:base < {"took":246,"timed_out":false,"_shards":{"total":1,"successful":1,"skipped":0,"failed":0},"hits":{"total":{"value":1,"relation":"eq"},"max_score":null,"hits":[{"_index":"movies","_type":"movies","_id":"11","_score":null,"_source":{"id":11,"name":"The Wizard of Oz","imdb_score":8.3,"director":"Victor Fleming","popularity":83.0},"sort":[83.0]}]}}
+INFO: 17/01/22 03:38:04         pid:21 module:_internal 172.28.0.1 - - [17/Jan/2022 03:38:04] "[37mGET /application/search_movie?name=wizard HTTP/1.1[0m" 200 -
+INFO: 17/01/22 03:38:54         pid:21 module:_internal  * Detected change in '/opt/project/src/routes/movies.py', reloading
+INFO: 17/01/22 03:38:54         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:38:58         pid:28 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:38:58         pid:28 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 03:39:02         pid:28 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 03:39:02         pid:28 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 03:39:02         pid:28 module:base GET http://host.docker.internal:9200/ [status:200 request:0.058s]
+DEBUG: 17/01/22 03:39:02         pid:28 module:base > None
+DEBUG: 17/01/22 03:39:02         pid:28 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 03:39:02         pid:28 module:connectionpool http://host.docker.internal:9200 "POST /movies/_search HTTP/1.1" 200 345
+INFO: 17/01/22 03:39:02         pid:28 module:base POST http://host.docker.internal:9200/movies/_search [status:200 request:0.047s]
+DEBUG: 17/01/22 03:39:02         pid:28 module:base > {"size":10,"sort":[{"popularity":{"order":"desc"}}],"query":{"multi_match":{"fields":["name","director"],"query":"wizard","fuzziness":"AUTO"}}}
+DEBUG: 17/01/22 03:39:02         pid:28 module:base < {"took":19,"timed_out":false,"_shards":{"total":1,"successful":1,"skipped":0,"failed":0},"hits":{"total":{"value":1,"relation":"eq"},"max_score":null,"hits":[{"_index":"movies","_type":"movies","_id":"11","_score":null,"_source":{"id":11,"name":"The Wizard of Oz","imdb_score":8.3,"director":"Victor Fleming","popularity":83.0},"sort":[83.0]}]}}
+INFO: 17/01/22 03:39:02         pid:28 module:_internal 172.28.0.1 - - [17/Jan/2022 03:39:02] "[37mGET /application/search_movie?name=wizard HTTP/1.1[0m" 200 -
+INFO: 17/01/22 03:40:07         pid:28 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 17/01/22 03:40:07         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:40:10         pid:35 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:40:10         pid:35 module:_internal  * Debugger PIN: 168-972-087
+INFO: 17/01/22 03:40:44         pid:35 module:_internal  * Detected change in '/opt/project/src/models/movies.py', reloading
+INFO: 17/01/22 03:40:44         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:40:47         pid:40 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:40:47         pid:40 module:_internal  * Debugger PIN: 168-972-087
+INFO: 17/01/22 03:41:25         pid:40 module:_internal  * Detected change in '/opt/project/src/routes/movies.py', reloading
+INFO: 17/01/22 03:41:25         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:41:29         pid:45 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:41:29         pid:45 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 03:41:31         pid:45 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 03:41:31         pid:45 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 03:41:31         pid:45 module:base GET http://host.docker.internal:9200/ [status:200 request:0.044s]
+DEBUG: 17/01/22 03:41:31         pid:45 module:base > None
+DEBUG: 17/01/22 03:41:31         pid:45 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 03:41:31         pid:45 module:connectionpool http://host.docker.internal:9200 "POST /movies/_search HTTP/1.1" 200 345
+INFO: 17/01/22 03:41:31         pid:45 module:base POST http://host.docker.internal:9200/movies/_search [status:200 request:0.040s]
+DEBUG: 17/01/22 03:41:31         pid:45 module:base > {"size":10,"sort":[{"popularity":{"order":"desc"}}],"query":{"multi_match":{"fields":["name","director"],"query":"wizard","fuzziness":"AUTO"}}}
+DEBUG: 17/01/22 03:41:31         pid:45 module:base < {"took":16,"timed_out":false,"_shards":{"total":1,"successful":1,"skipped":0,"failed":0},"hits":{"total":{"value":1,"relation":"eq"},"max_score":null,"hits":[{"_index":"movies","_type":"movies","_id":"11","_score":null,"_source":{"id":11,"name":"The Wizard of Oz","imdb_score":8.3,"director":"Victor Fleming","popularity":83.0},"sort":[83.0]}]}}
+INFO: 17/01/22 03:41:54         pid:45 module:_internal 172.28.0.1 - - [17/Jan/2022 03:41:54] "[1m[35mGET /application/search_movie?name=wizard HTTP/1.1[0m" 500 -
+DEBUG: 17/01/22 03:42:16         pid:45 module:connectionpool http://host.docker.internal:9200 "POST /movies/_search HTTP/1.1" 200 345
+INFO: 17/01/22 03:42:16         pid:45 module:base POST http://host.docker.internal:9200/movies/_search [status:200 request:0.043s]
+DEBUG: 17/01/22 03:42:16         pid:45 module:base > {"size":10,"sort":[{"popularity":{"order":"desc"}}],"query":{"multi_match":{"fields":["name","director"],"query":"wizard","fuzziness":"AUTO"}}}
+DEBUG: 17/01/22 03:42:16         pid:45 module:base < {"took":18,"timed_out":false,"_shards":{"total":1,"successful":1,"skipped":0,"failed":0},"hits":{"total":{"value":1,"relation":"eq"},"max_score":null,"hits":[{"_index":"movies","_type":"movies","_id":"11","_score":null,"_source":{"id":11,"name":"The Wizard of Oz","imdb_score":8.3,"director":"Victor Fleming","popularity":83.0},"sort":[83.0]}]}}
+INFO: 17/01/22 03:43:22         pid:45 module:_internal 172.28.0.1 - - [17/Jan/2022 03:43:22] "[1m[35mGET /application/search_movie?name=wizard HTTP/1.1[0m" 500 -
+INFO: 17/01/22 03:43:23         pid:45 module:_internal  * Detected change in '/opt/project/src/routes/movies.py', reloading
+INFO: 17/01/22 03:43:24         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 03:43:28         pid:56 module:_internal  * Debugger is active!
+INFO: 17/01/22 03:43:28         pid:56 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 03:43:30         pid:56 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 03:43:30         pid:56 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 03:43:30         pid:56 module:base GET http://host.docker.internal:9200/ [status:200 request:0.050s]
+DEBUG: 17/01/22 03:43:30         pid:56 module:base > None
+DEBUG: 17/01/22 03:43:30         pid:56 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 03:43:30         pid:56 module:connectionpool http://host.docker.internal:9200 "POST /movies/_search HTTP/1.1" 200 345
+INFO: 17/01/22 03:43:30         pid:56 module:base POST http://host.docker.internal:9200/movies/_search [status:200 request:0.040s]
+DEBUG: 17/01/22 03:43:30         pid:56 module:base > {"size":10,"sort":[{"popularity":{"order":"desc"}}],"query":{"multi_match":{"fields":["name","director"],"query":"wizard","fuzziness":"AUTO"}}}
+DEBUG: 17/01/22 03:43:30         pid:56 module:base < {"took":18,"timed_out":false,"_shards":{"total":1,"successful":1,"skipped":0,"failed":0},"hits":{"total":{"value":1,"relation":"eq"},"max_score":null,"hits":[{"_index":"movies","_type":"movies","_id":"11","_score":null,"_source":{"id":11,"name":"The Wizard of Oz","imdb_score":8.3,"director":"Victor Fleming","popularity":83.0},"sort":[83.0]}]}}
+INFO: 17/01/22 03:43:41         pid:56 module:_internal 172.28.0.1 - - [17/Jan/2022 03:43:41] "[37mGET /application/search_movie?name=wizard HTTP/1.1[0m" 200 -
+INFO: 17/01/22 04:03:12         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 17/01/22 04:03:12         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 04:03:15         pid:12 module:_internal  * Debugger is active!
+INFO: 17/01/22 04:03:15         pid:12 module:_internal  * Debugger PIN: 168-972-087
+INFO: 17/01/22 04:06:24         pid:12 module:_internal  * Detected change in '/opt/project/src/models/schema.py', reloading
+INFO: 17/01/22 04:06:24         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 04:06:27         pid:20 module:_internal  * Debugger is active!
+INFO: 17/01/22 04:06:27         pid:20 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 04:08:19         pid:20 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 04:08:19         pid:20 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 04:08:19         pid:20 module:base GET http://host.docker.internal:9200/ [status:200 request:0.037s]
+DEBUG: 17/01/22 04:08:19         pid:20 module:base > None
+DEBUG: 17/01/22 04:08:19         pid:20 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 04:08:19         pid:20 module:connectionpool http://host.docker.internal:9200 "PUT /movies/movies/14 HTTP/1.1" 400 773
+WARNING: 17/01/22 04:08:19         pid:20 module:base PUT http://host.docker.internal:9200/movies/movies/14 [status:400 request:0.026s]
+DEBUG: 17/01/22 04:08:19         pid:20 module:base > {"name":"Cabiria","id":14,"director":"Giovanni Pastrone","imdb_score":6.6,"genres":[{"id":4,"title":" Drama"},{"id":22,"title":" War"},{"id":40,"title":"Adventure"}],"popularity":66.0}
+DEBUG: 17/01/22 04:08:19         pid:20 module:base < {"error":{"root_cause":[{"type":"mapper_parsing_exception","reason":"failed to parse field [genres] of type [long] in document with id '14'. Preview of field's value: '{id=4, title= Drama}'"}],"type":"mapper_parsing_exception","reason":"failed to parse field [genres] of type [long] in document with id '14'. Preview of field's value: '{id=4, title= Drama}'","caused_by":{"type":"json_parse_exception","reason":"Current token (START_OBJECT) not numeric, can not use numeric value accessors\n at [Source: (byte[])\"{\"name\":\"Cabiria\",\"id\":14,\"director\":\"Giovanni Pastrone\",\"imdb_score\":6.6,\"genres\":[{\"id\":4,\"title\":\" Drama\"},{\"id\":22,\"title\":\" War\"},{\"id\":40,\"title\":\"Adventure\"}],\"popularity\":66.0}\"; line: 1, column: 86]"}},"status":400}
+INFO: 17/01/22 04:08:21         pid:20 module:_internal  * Detected change in '/opt/project/src/models/schema.py', reloading
+INFO: 17/01/22 04:08:21         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 04:08:24         pid:28 module:_internal  * Debugger is active!
+INFO: 17/01/22 04:08:24         pid:28 module:_internal  * Debugger PIN: 168-972-087
+DEBUG: 17/01/22 04:08:28         pid:28 module:connectionpool Starting new HTTP connection (1): host.docker.internal:9200
+DEBUG: 17/01/22 04:08:28         pid:28 module:connectionpool http://host.docker.internal:9200 "GET / HTTP/1.1" 200 542
+INFO: 17/01/22 04:08:28         pid:28 module:base GET http://host.docker.internal:9200/ [status:200 request:0.052s]
+DEBUG: 17/01/22 04:08:28         pid:28 module:base > None
+DEBUG: 17/01/22 04:08:28         pid:28 module:base < {
+  "name" : "b59b17e7f6a3",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "L2XuzpQ-Q3mswvK0LLogDw",
+  "version" : {
+    "number" : "7.11.0",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "8ced7813d6f16d2ef30792e2fcde3e755795ee04",
+    "build_date" : "2021-02-08T22:44:01.320463Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.7.0",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+DEBUG: 17/01/22 04:08:28         pid:28 module:connectionpool http://host.docker.internal:9200 "PUT /movies/movies/15 HTTP/1.1" 400 732
+WARNING: 17/01/22 04:08:28         pid:28 module:base PUT http://host.docker.internal:9200/movies/movies/15 [status:400 request:0.032s]
+DEBUG: 17/01/22 04:08:28         pid:28 module:base > {"director":"Giovanni Pastrone","name":"Cabiria","popularity":66.0,"genres":[{"title":" Drama"},{"title":" War"},{"title":"Adventure"}],"imdb_score":6.6,"id":15}
+DEBUG: 17/01/22 04:08:28         pid:28 module:base < {"error":{"root_cause":[{"type":"mapper_parsing_exception","reason":"failed to parse field [genres] of type [long] in document with id '15'. Preview of field's value: '{title= Drama}'"}],"type":"mapper_parsing_exception","reason":"failed to parse field [genres] of type [long] in document with id '15'. Preview of field's value: '{title= Drama}'","caused_by":{"type":"json_parse_exception","reason":"Current token (START_OBJECT) not numeric, can not use numeric value accessors\n at [Source: (byte[])\"{\"director\":\"Giovanni Pastrone\",\"name\":\"Cabiria\",\"popularity\":66.0,\"genres\":[{\"title\":\" Drama\"},{\"title\":\" War\"},{\"title\":\"Adventure\"}],\"imdb_score\":6.6,\"id\":15}\"; line: 1, column: 79]"}},"status":400}
+INFO: 17/01/22 04:08:45         pid:28 module:_internal 172.28.0.1 - - [17/Jan/2022 04:08:45] "[1m[35mPOST /application/add_movie HTTP/1.1[0m" 500 -
+DEBUG: 17/01/22 04:11:46         pid:28 module:connectionpool http://host.docker.internal:9200 "PUT /movies/movies/16 HTTP/1.1" 201 157
+INFO: 17/01/22 04:11:46         pid:28 module:base PUT http://host.docker.internal:9200/movies/movies/16 [status:201 request:0.536s]
+DEBUG: 17/01/22 04:11:46         pid:28 module:base > {"director":"Victor Fleming","name":"The Wizard of Oz","popularity":83.0,"genres":[{"title":" Musical"},{"title":" Family"},{"title":" Fantasy"},{"title":"Adventure"}],"imdb_score":8.3,"id":16}
+DEBUG: 17/01/22 04:11:46         pid:28 module:base < {"_index":"movies","_type":"movies","_id":"16","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":0,"_primary_term":1}
+INFO: 17/01/22 04:11:46         pid:28 module:_internal 172.28.0.1 - - [17/Jan/2022 04:11:46] "[37mPOST /application/add_movie HTTP/1.1[0m" 201 -
+DEBUG: 17/01/22 04:14:14         pid:28 module:connectionpool http://host.docker.internal:9200 "PUT /movies/movies/17 HTTP/1.1" 201 157
+INFO: 17/01/22 04:14:14         pid:28 module:base PUT http://host.docker.internal:9200/movies/movies/17 [status:201 request:0.060s]
+DEBUG: 17/01/22 04:14:14         pid:28 module:base > {"director":"Victor Fleming","name":"The Wizard of Oz","popularity":83.0,"genres":[{"title":" Musical"},{"title":" Family"},{"title":" Fantasy"},{"title":"Adventure"}],"imdb_score":8.3,"id":17}
+DEBUG: 17/01/22 04:14:14         pid:28 module:base < {"_index":"movies","_type":"movies","_id":"17","_version":1,"result":"created","_shards":{"total":2,"successful":1,"failed":0},"_seq_no":1,"_primary_term":1}
+INFO: 17/01/22 04:14:14         pid:28 module:_internal 172.28.0.1 - - [17/Jan/2022 04:14:14] "[37mPOST /application/add_movie HTTP/1.1[0m" 201 -
+INFO: 17/01/22 05:59:16         pid:1 module:_internal  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+INFO: 17/01/22 05:59:16         pid:1 module:_internal  * Restarting with stat
+WARNING: 17/01/22 05:59:20         pid:10 module:_internal  * Debugger is active!
+INFO: 17/01/22 05:59:20         pid:10 module:_internal  * Debugger PIN: 101-074-172
+INFO: 17/01/22 05:59:29         pid:10 module:_internal 172.28.0.1 - - [17/Jan/2022 05:59:29] "[1m[35mPOST /api/v1/register HTTP/1.1[0m" 500 -

@@ -1,0 +1,60 @@
+services:
+  server:
+    env_file:
+      - .env
+    image: python:3.9
+    working_dir: /mnt
+    volumes:
+      - .:/mnt
+    depends_on:
+      - db
+      - elasticsearch
+    ports:
+      - 3000:3000
+    command: python src/server.py
+
+  dbdata:
+    image: busybox
+    volumes:
+      - /var/lib/postgresql/data
+  db:
+    image: postgres:9.4
+    volumes_from:
+      - dbdata
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: trust
+
+  es_data:
+    image: busybox
+    volumes:
+      - /var/lib/elasticsearch/data
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.11.0
+    environment:
+      - xpack.security.enabled=false
+      - "discovery.type=single-node"
+    ports:
+      - 9200:9200
+    volumes_from:
+      - es_data
+
+  testserver:
+    env_file: .env.test
+    image: python:3.9
+    working_dir: /mnt
+    volumes:
+      - .:/mnt
+    depends_on:
+      - testdb
+      - elasticsearch
+    ports:
+      - 5053:5053
+    environment:
+      APPLICATION_PORT: 5053
+      APPLICATION_DB_CONTAINER: testdb
+    command: python -m pytest test/
+
+  testdb:
+    image: postgres:9.4
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: trust
